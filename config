@@ -1,5 +1,5 @@
 {
-    "ram":["['data']['list']"],
+    "ram":["list"],
     "data":
     {
       "list":
