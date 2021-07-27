@@ -1,0 +1,11 @@
+{
+    "ram":["data[list]"],
+    "data":
+    {
+      "list":
+      {
+        "name":"list pengguna",
+        "url":"https://raw.githubusercontent.com/udintc/bot_yt/server/list"
+      }
+    }
+}
