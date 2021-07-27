@@ -1,11 +1,18 @@
 {
-    "ram":["list"],
+    "ram":["list","config"],
     "data":
     {
       "list":
       {
         "name":"list pengguna",
         "url":"https://raw.githubusercontent.com/udintc/bot_yt/server/list"
+      },
+      "config":
+      {
+        "1.0":
+        {
+            "url":""
+        }
       }
     }
 }
