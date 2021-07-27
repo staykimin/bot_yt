@@ -1,5 +1,7 @@
 {
     "ram":["list","config"],
+    "support_version":["1.0","1.1"],
+    "new_version":"1.0",
     "data":
     {
       "list":
@@ -11,7 +13,7 @@
       {
         "1.0":
         {
-            "url":""
+            "url":"https://raw.githubusercontent.com/udintc/bot_yt/server/1.0"
         }
       }
     }
